@@ -6,4 +6,4 @@ The source folder contains input files. The output folder contains compiled file
 ### Note:
 Translations moved to another repository which is connected to Crowdin platform at.
 - https://github.com/geo-gta3/translation
-- https://crowdin.com/project/geo-gta3)
+- https://crowdin.com/project/geo-gta3
